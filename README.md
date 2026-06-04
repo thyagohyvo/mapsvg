@@ -8,7 +8,7 @@ Painel interativo para visualização de hosts Zabbix em mapa do Brasil, com zoo
 
 > Veja o vídeo de demonstração incluso no repositório.
 
-<img width="800" height="400" alt="Demomapasvg" src="https://github.com/user-attachments/assets/d268d257-2936-401c-8909-a5413b1a7a34" />
+<img width="900" height="450" alt="Demomapasvg" src="https://github.com/user-attachments/assets/d268d257-2936-401c-8909-a5413b1a7a34" />
 
 
 
