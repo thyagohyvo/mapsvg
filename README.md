@@ -5,6 +5,7 @@ Painel interativo para visualização de hosts Zabbix em mapa do Brasil, com zoo
 ## 📸 Preview
 
 > Veja o vídeo de demonstração incluso no repositório.
+> https://github.com/thyagohyvo/mapsvg/raw/main/Demomapasvg.mp4
 
 ## 🚀 Funcionalidades
 
