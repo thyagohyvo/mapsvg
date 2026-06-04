@@ -1,3 +1,5 @@
+
+
 # 🗺️ Hosts Zabbix — Mapa do Brasil (Grafana Panel)
 
 Painel interativo para visualização de hosts Zabbix em mapa do Brasil, com zoom por estado, grupos de dutos, status em tempo real e topologia de rede.
@@ -5,7 +7,12 @@ Painel interativo para visualização de hosts Zabbix em mapa do Brasil, com zoo
 ## 📸 Preview
 
 > Veja o vídeo de demonstração incluso no repositório.
-> https://github.com/thyagohyvo/mapsvg/raw/main/Demomapasvg.mp4
+
+<img width="738" height="364" alt="Demomapasvg" src="https://github.com/user-attachments/assets/d268d257-2936-401c-8909-a5413b1a7a34" />
+
+
+
+
 
 ## 🚀 Funcionalidades
 
