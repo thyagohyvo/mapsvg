@@ -1,6 +1,6 @@
 
 
-# 🗺️ Hosts Zabbix — Mapa do Brasil (Grafana Panel)
+# 🗺️ Hosts Zabbix - Mapa do Brasil (Grafana Panel)
 
 Painel interativo para visualização de hosts Zabbix em mapa do Brasil, com zoom por estado, grupos de dutos, status em tempo real e topologia de rede.
 
@@ -28,7 +28,7 @@ Painel interativo para visualização de hosts Zabbix em mapa do Brasil, com zoo
 
 ## 🗄️ Queries SQL (Zabbix + MySQL)
 
-### Query A — Estado AM (Amazonas)
+### Query A -  Estado AM (Amazonas)
 
 ```sql
 -- Query A → Estado AM completo (todos os dutos)
@@ -49,7 +49,7 @@ WHERE g.name      IN ('DUTO-AGUA-01','DUTO-AGUA-02','DUTO-AGUA-03')
 GROUP BY h.host, g.name
 ```
 
-### Query B — Estado PE (Pernambuco)
+### Query B -  Estado PE (Pernambuco)
 
 ```sql
 -- Query B → Estado PE completo (todos os dutos)
@@ -113,9 +113,9 @@ Os grupos Zabbix utilizados atualmente:
 
 | Grupo          | Descrição               |
 |----------------|-------------------------|
-| `DUTO-AGUA-01` | Duto de água — linha 01 |
-| `DUTO-AGUA-02` | Duto de água — linha 02 |
-| `DUTO-AGUA-03` | Duto de água — linha 03 |
+| `DUTO-AGUA-01` | Duto de água -  linha 01 |
+| `DUTO-AGUA-02` | Duto de água -  linha 02 |
+| `DUTO-AGUA-03` | Duto de água -  linha 03 |
 
 Para adicionar novos grupos, inclua-os no `WHERE g.name IN (...)` das queries e eles aparecerão automaticamente no mapa.
 
