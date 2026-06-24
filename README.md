@@ -121,6 +121,30 @@ Para adicionar novos grupos, inclua-os no `WHERE g.name IN (...)` das queries e 
 
 ---
 
+## Estados no mapa 
+caso queria mudar a posiçao dos dados no mapa, basta colocar a sigla do estado na query.
+Região Siglas
+
+Norte
+
+AC, AM, AP, PA, RORR, TO
+
+Nordeste
+
+AL, BA, CE, MA, PB, PE, PI, RN, SE
+
+Centro-Oeste
+
+DF, GO, MS, MT
+
+Sudeste
+
+ES, MG, RJ, SP
+
+Sul
+
+PR, RS, SC
+
 ## 📄 Licença
 
 MIT - sinta-se livre para usar, modificar e distribuir. Se este card te ajudou e você for compartilhar em alguma rede social, blog ou fórum, considere fazer uma referência a este repositório como base. Isso ajuda a comunidade a encontrar o projeto e contribui para que mais pessoas se beneficiem da solução. 🙌 🔗 github.com/thyagohyvo/grafana-sdwan-latency-card
