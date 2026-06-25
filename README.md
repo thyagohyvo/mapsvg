@@ -123,27 +123,13 @@ Para adicionar novos grupos, inclua-os no `WHERE g.name IN (...)` das queries e 
 
 ## Estados no mapa 
 caso queria mudar a posiçao dos dados no mapa, basta colocar a sigla do estado na query.
-Região Siglas
 
-Norte
-
-AC, AM, AP, PA, RORR, TO
-
-Nordeste
-
-AL, BA, CE, MA, PB, PE, PI, RN, SE
-
-Centro-Oeste
-
-DF, GO, MS, MT
-
-Sudeste
-
-ES, MG, RJ, SP
-
-Sul
-
-PR, RS, SC
+Região	Siglas
+Norte	AC AM AP PA RORR TO
+Nordeste	AL BA CE MA PBPE PI RN SE
+Centro-Oeste	DF GO MS MT
+Sudeste	ES MG RJ SP
+Sul	PR RS SC
 
 ## 📄 Licença
 
